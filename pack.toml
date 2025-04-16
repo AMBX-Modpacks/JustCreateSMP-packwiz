@@ -1,0 +1,12 @@
+name = "Just Create SMP v0.1"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "df0fcedcb045737464255cea24b9310e054790b83bb16a41d2ce823aabc7d486"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.139"

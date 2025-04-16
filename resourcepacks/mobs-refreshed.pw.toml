@@ -1,0 +1,13 @@
+name = "Mobs Refreshed"
+filename = "mobs-refreshed-v2.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pUZXW8CZ/versions/mzOuHmO9/mobs-refreshed-v2.1.zip"
+hash-format = "sha1"
+hash = "558f3e5da4e36ad55d13f761192979063dbd3b2f"
+
+[update]
+[update.modrinth]
+mod-id = "pUZXW8CZ"
+version = "mzOuHmO9"

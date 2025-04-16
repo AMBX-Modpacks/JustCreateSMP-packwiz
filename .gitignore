@@ -1,0 +1,16 @@
+# Exclude vscode
+/.vscode
+
+# Exclude exported CurseForge zip files
+#*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack
+
+# Exclude disabled files
+*.bak
+*.disabled
+
+# Exclude local script files
+*.bat
+*.code-workspace
