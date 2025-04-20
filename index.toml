@@ -321,6 +321,50 @@ file = "config/xaeroworldmap.txt"
 hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/cake_base.png"
+hash = "e5c482c45ce0c8182b8294bd0840b410195d140ce0474f65aff523664bd3b457"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/cake_base_alt.png"
+hash = "3c4e21e7acf7b4bee845c2c0976a6588d05e7fd736ec09a378cdc8f2073d63c6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/cake_batter.png"
+hash = "a964c44c010df0de738c1309de017ec8eb366ed3c3b514d21c1b8e29be2efc9a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/cookie_dough.png"
+hash = "637e08ba19e1b254f543aadd9b1b8e1ce62cbc7474c6f8644d405f0232943aa0"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/pumpkin_pie_base.png"
+hash = "9b3669085de8ec54c1b4a84827f9dcfe16ef16c429469ed1d4679b46eb57714a"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/pumpkin_pie.png"
+hash = "c6b30614a0c904cc5d2c796ec62ad9f931a72e364afe3bca59afcd82ef371a71"
+
+[[files]]
+file = "kubejs/server_scripts/baking_recipes.js"
+hash = "032de9b39657f4dc6ef9f5aa0d796ab88bd60ad8795a160a6fa85aedbfba7219"
+
+[[files]]
+file = "kubejs/server_scripts/create_recipes.js"
+hash = "7c5adae0035c439bafbb17619d859e9ce38101e6962f0bd28f7636b8f3b3bccc"
+
+[[files]]
+file = "kubejs/server_scripts/metalworking_recipes.js"
+hash = "5116e0ed90ab106d3793dee73bd48ca57066dc30871146e2da3bb033cc89e345"
+
+[[files]]
+file = "kubejs/server_scripts/stew_recipes.js"
+hash = "a62528ce67eaf8c5befe8d7f6db4e5778ec8aeb79f2d6d0dc92204989d918430"
+
+[[files]]
+file = "kubejs/startup_scripts/items.js"
+hash = "e24f69b4b2a30f26d4e97df9072c6186c50e2b61b0b1414963314d36b285d6f0"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "1c33080f06aea76324850076e9fe1a39f9c45af968adb4a67765dce9c1bf1dc8"
 metafile = true
@@ -556,6 +600,11 @@ hash = "fe64d3dd484296b6a6b36a7e7c96d6f17ce21bc274cf33abd223a8b0587befb1"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "af309ff79ae52a005b21d014a18a3ce7a924d91a648689e8028cf7e46cc24689"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "996bdd8de2f3959c2ab61f03d0c86cfe131d54c6171407cbd52044f0c3104b85"
 metafile = true
@@ -656,6 +705,11 @@ hash = "d302b7065db61f8dfe59ce243e005a79b2c5447a28b7cd8ff919e3050aebce32"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "f1634ac53de71ec9b8488d1e6d15f669bb5836e04edc6bd99de3035f17c7b123"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
@@ -703,6 +757,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "ff412b6f34c86715af5dff154bfcedb7cb5e7b28e77ab9b21abcd42bfae9ca80"
+metafile = true
+
+[[files]]
+file = "mods/toffelsfinitewater.pw.toml"
+hash = "ca26273d46d14c954d1a9faf726765839b2e9daeed07b4d365a5096991cd3e89"
 metafile = true
 
 [[files]]
