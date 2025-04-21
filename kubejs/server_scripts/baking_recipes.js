@@ -12,6 +12,10 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'minecraft:bread' });
     event.remove({ id: 'create:smelting/bread' });
     event.remove({ id: 'create:campfire_cooking/bread' });
+    
+    event.remove({ id: 'create:smoking/bread' });
+
+    event.smoking('minecraft:bread', 'create:dough').id('kubejs:smoking/bread').xp(0.35);
 
     // --- COOKIE RECIPE MODIFICATIONS ---
     event.remove({ id: 'minecraft:cookie' });
@@ -39,7 +43,7 @@ ServerEvents.recipes(event => {
     }).id('kubejs:mixing/cookie_dough');
     
     // Step 2: Bake in smoker
-    event.smoking('minecraft:cookie', 'kubejs:cookie_dough').id('kubejs:smoking/cookies');
+    event.smoking('minecraft:cookie', 'kubejs:cookie_dough').id('kubejs:smoking/cookies').xp(0.175);
     
     
     // --- CAKE RECIPE MODIFICATIONS ---
@@ -76,7 +80,7 @@ ServerEvents.recipes(event => {
     }).id('kubejs:mixing/cake_batter');
     
     // Step 2: Bake in smoker
-    event.smoking('kubejs:cake_base', 'kubejs:cake_batter').id('kubejs:smoking/cake');
+    event.smoking('kubejs:cake_base', 'kubejs:cake_batter').id('kubejs:smoking/cake').xp(0.7);
     
     // Step 3: Decorate cake base
     event.shaped('minecraft:cake', [
@@ -114,5 +118,5 @@ ServerEvents.recipes(event => {
     }).id('kubejs:mixing/pumpkin_pie_base');
 
     // Step 2: Bake in smoker
-    event.smoking('4x minecraft:pumpkin_pie', 'kubejs:pumpkin_pie_base').id('kubejs:smoking/pumpkin_pie');
+    event.smoking('4x minecraft:pumpkin_pie', 'kubejs:pumpkin_pie_base').id('kubejs:smoking/pumpkin_pie').xp(0.7);
 });

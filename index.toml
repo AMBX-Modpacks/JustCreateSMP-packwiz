@@ -354,7 +354,7 @@ hash = "7c5adae0035c439bafbb17619d859e9ce38101e6962f0bd28f7636b8f3b3bccc"
 
 [[files]]
 file = "kubejs/server_scripts/metalworking_recipes.js"
-hash = "5116e0ed90ab106d3793dee73bd48ca57066dc30871146e2da3bb033cc89e345"
+hash = "8e151f7ca82926656a9b5d8c1c4b61872c643583233851ea91a32ad2a4d73499"
 
 [[files]]
 file = "kubejs/server_scripts/stew_recipes.js"
@@ -362,7 +362,7 @@ hash = "a62528ce67eaf8c5befe8d7f6db4e5778ec8aeb79f2d6d0dc92204989d918430"
 
 [[files]]
 file = "kubejs/startup_scripts/items.js"
-hash = "e24f69b4b2a30f26d4e97df9072c6186c50e2b61b0b1414963314d36b285d6f0"
+hash = "055ba97874bdd97539bb9ff53d7a74c11aed92266d8d23ac3245ba7894a53c08"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
