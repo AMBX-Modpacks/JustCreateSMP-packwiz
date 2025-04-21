@@ -346,7 +346,7 @@ hash = "c6b30614a0c904cc5d2c796ec62ad9f931a72e364afe3bca59afcd82ef371a71"
 
 [[files]]
 file = "kubejs/server_scripts/baking_recipes.js"
-hash = "032de9b39657f4dc6ef9f5aa0d796ab88bd60ad8795a160a6fa85aedbfba7219"
+hash = "aa94988b30d20c3cdbe03f3ff6d06c7709a815a5f26e7781c499a464f6a376a9"
 
 [[files]]
 file = "kubejs/server_scripts/create_recipes.js"
