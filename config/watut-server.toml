@@ -43,7 +43,7 @@
 	#Show any Gui they're using that isn't chat typing related in world
 	showPlayerActiveNonChatGui = true
 	#Show the chat typing Gui in world
-	showPlayerActiveChatGui = true
+	showPlayerActiveChatGui = false
 	#Show 'Player is typing...' on the chat screen
 	screenTypingVisible = true
 	#Plays a sound when a player opens some Guis

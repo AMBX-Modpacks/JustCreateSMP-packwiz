@@ -1,0 +1,13 @@
+name = "Better Compass"
+filename = "PK_Better_Compass_V.3.0.0_MC_1.21.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JG6g520a/versions/nEwWlM42/PK_Better_Compass_V.3.0.0_MC_1.21.zip"
+hash-format = "sha1"
+hash = "994c3c0ff28eae354ca236f7a3cb62a2b229cb14"
+
+[update]
+[update.modrinth]
+mod-id = "JG6g520a"
+version = "nEwWlM42"

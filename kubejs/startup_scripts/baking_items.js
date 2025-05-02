@@ -21,9 +21,11 @@ StartupEvents.registry('item', event => {
 });
 
 StartupEvents.modifyCreativeTab('create:base', event => {
-    event.add(['kubejs:cookie_dough']);
-    event.add(['kubejs:cake_batter', 'kubejs:cake_base']);
-    event.add(['kubejs:pumpkin_pie_base']);
+    // Add items in reverse
+    event.addAfter('create:dough', 'kubejs:pumpkin_pie_base');
+    event.addAfter('create:dough', 'kubejs:cake_base');
+    event.addAfter('create:dough', 'kubejs:cake_batter');
+    event.addAfter('create:dough', 'kubejs:cookie_dough');
 });
 
 StartupEvents.modifyCreativeTab('kubejs:tab', event => {

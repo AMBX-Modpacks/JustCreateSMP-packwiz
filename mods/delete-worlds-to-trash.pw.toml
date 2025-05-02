@@ -1,0 +1,13 @@
+name = "Delete Worlds To Trash"
+filename = "DeleteWorldsToTrash-v21.1.0-1.21.1-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7diJQfvM/versions/vJUUjK3C/DeleteWorldsToTrash-v21.1.0-1.21.1-NeoForge.jar"
+hash-format = "sha1"
+hash = "42adc6405eae940dd729b9f101e144b5ae0d2d3a"
+
+[update]
+[update.modrinth]
+mod-id = "7diJQfvM"
+version = "vJUUjK3C"

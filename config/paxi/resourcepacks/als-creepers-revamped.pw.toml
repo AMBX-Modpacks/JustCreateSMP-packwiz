@@ -1,0 +1,13 @@
+name = "AL's Creepers Revamped"
+filename = "AL's Creepers Revamped 1.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/d2srP5t3/versions/M9V8lKDB/AL%27s%20Creepers%20Revamped%201.3.zip"
+hash-format = "sha1"
+hash = "cf3f673dcdeb8b29b373f149293950c07476b669"
+
+[update]
+[update.modrinth]
+mod-id = "d2srP5t3"
+version = "M9V8lKDB"

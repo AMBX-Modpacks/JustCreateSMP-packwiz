@@ -3,9 +3,9 @@ filename = "kubejs-neoforge-2101.7.1-build.181.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/umyGl7zF/versions/3w2ufpfQ/kubejs-neoforge-2101.7.1-build.181.jar"
+url = "https://maven.latvian.dev/releases/dev/latvian/mods/kubejs-neoforge/2101.7.2-build.230/kubejs-neoforge-2101.7.2-build.230.jar"
 hash-format = "sha1"
-hash = "be525f7d4d8d71a18b07718352035b3e59e50ebd"
+hash = "F01165C29479DBBBA2B2C0C332C1A5BA663E614A"
 
 [update]
 [update.modrinth]

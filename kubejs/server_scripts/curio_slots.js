@@ -1,0 +1,45 @@
+
+ServerEvents.tags('item', event => {
+    event.removeAll('curios:charm');
+    
+    event.add('curios:belt', 'minecraft:trial_key');
+    event.add('curios:belt', 'minecraft:ominous_trial_key');
+    event.add('curios:belt', 'ftbquests:book');
+    event.add('curios:belt', 'minecraft:enchanted_book');
+    event.add('curios:belt', 'minecraft:writable_book');
+    event.add('curios:belt', 'minecraft:written_book');
+    event.add('curios:belt', 'create:clipboard');
+    event.add('curios:belt', 'create:wrench');
+    event.add('curios:belt', 'create:super_glue');
+    event.add('curios:belt', 'create:schedule');
+    event.add('curios:belt', 'create:schematic');
+    event.add('curios:belt', 'create:schematic_and_quill');
+    event.add('curios:belt', 'minecraft:clock');
+    event.add('curios:belt', 'minecraft:compass');
+    event.add('curios:belt', 'minecraft:recovery_compass');
+    event.add('curios:belt', 'minecraft:map');
+    event.add('curios:belt', 'minecraft:filled_map');
+    event.add('curios:belt', 'minecraft:spyglass');
+    event.add('curios:belt', 'minecraft:flint_and_steel');
+    event.add('curios:belt', 'minecraft:shears');
+    event.add('curios:belt', 'minecraft:brush');
+    event.add('curios:belt', 'minecraft:bucket');
+    event.add('curios:belt', 'minecraft:goat_horn');
+    event.add('curios:belt', 'minecraft:lever');
+    event.add('curios:belt', 'minecraft:tripwire_hook');
+    event.add('curios:belt', 'minecraft:redstone_torch');
+    event.add('curios:belt', 'minecraft:heart_of_the_sea');
+    event.add('curios:belt', 'minecraft:nether_star');
+    event.add('curios:belt', 'minecraft:dragon_breath');
+    event.add('curios:belt', 'minecraft:totem_of_undying');
+    event.add('curios:belt', 'friendsandfoes:totem_of_freezing');
+    event.add('curios:belt', 'friendsandfoes:totem_of_illusion');
+    event.add('curios:belt', 'minecraft:ominous_bottle');
+    event.add('curios:belt', 'minecraft:potion');
+    event.add('curios:belt', 'minecraft:splash_potion');
+    event.add('curios:belt', 'minecraft:lingering_potion');
+    event.add('curios:belt', 'minecraft:honey_bottle');
+    event.add('curios:belt', 'create:builders_tea');
+    event.add('curios:belt', 'explorerscompass:explorerscompass');
+    event.add('curios:belt', 'naturescompass:naturescompass');
+});

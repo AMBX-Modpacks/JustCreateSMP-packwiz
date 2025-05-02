@@ -5,8 +5,12 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e9a26553e78559ff2c348a3fa3d0d63b823dc5e5d8a0d06b8ce0930ed991bbbb"
+hash = "0f591546043d8c829cd304836e1d3468acc97191dba88f2c9f15fd36c1d4d2e4"
 
 [versions]
 minecraft = "1.21.1"
 neoforge = "21.1.139"
+
+[options]
+acceptable-game-versions = ["1.21"]
+datapack-folder = "kubejs/data"

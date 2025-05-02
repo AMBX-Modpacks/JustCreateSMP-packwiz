@@ -1,0 +1,13 @@
+name = "AL's Boss Rush x Fresh Animations"
+filename = "AL's Boss Rush+FA 1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xbzFxAxu/versions/f3UnuP3i/AL%27s%20Boss%20Rush%2BFA%201.1.zip"
+hash-format = "sha1"
+hash = "1ce6bb16db583615d17bb51395e7b0f9121547a8"
+
+[update]
+[update.modrinth]
+mod-id = "xbzFxAxu"
+version = "f3UnuP3i"

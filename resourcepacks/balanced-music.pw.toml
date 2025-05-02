@@ -1,0 +1,13 @@
+name = "Balanced Music"
+filename = "Balanced-Music-0.2.2+1.21.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CWBlLg2t/versions/gVv72SZc/Balanced-Music-0.2.2%2B1.21.zip"
+hash-format = "sha1"
+hash = "ba630ce94de3c8cdcfa5b5ef67b53f3b58a9598b"
+
+[update]
+[update.modrinth]
+mod-id = "CWBlLg2t"
+version = "gVv72SZc"

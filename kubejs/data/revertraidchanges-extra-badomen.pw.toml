@@ -1,0 +1,13 @@
+name = "RevertRaidChanges-Extra-BadOmen"
+filename = "RevertRaidChanges-Extra-BadOmen.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NYDgbrAM/versions/ni1Sxk6Z/RevertRaidChanges-Extra-BadOmen.zip"
+hash-format = "sha1"
+hash = "ad6b73d5e0b063d778c54a6a9a61936f897e770c"
+
+[update]
+[update.modrinth]
+mod-id = "NYDgbrAM"
+version = "ni1Sxk6Z"

@@ -1,0 +1,13 @@
+name = "RevertRaidChanges-Normal"
+filename = "RevertRaidChanges-Normal.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TCngMlbk/versions/gCUm7ZWe/RevertRaidChanges-Normal.zip"
+hash-format = "sha1"
+hash = "9487fac4af13bb967f6fd6a0cce7201e2b575b83"
+
+[update]
+[update.modrinth]
+mod-id = "TCngMlbk"
+version = "gCUm7ZWe"

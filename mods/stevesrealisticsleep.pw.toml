@@ -1,0 +1,13 @@
+name = "Steve's Realistic Sleep"
+filename = "stevesrealisticsleep-neoforge-1.11.2+mc1.21-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZPywkPEo/versions/jYZVMfJk/stevesrealisticsleep-neoforge-1.11.2%2Bmc1.21-1.21.1.jar"
+hash-format = "sha1"
+hash = "a94abe278d2b2a827e17d66627f79616f6fb2e66"
+
+[update]
+[update.modrinth]
+mod-id = "ZPywkPEo"
+version = "jYZVMfJk"

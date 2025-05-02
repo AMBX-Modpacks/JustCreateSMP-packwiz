@@ -1,0 +1,13 @@
+name = "Nyf's Spiders"
+filename = "nyfsspiders-neoforge-1.21.1-2.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dOGM7ccu/versions/jBsD0s73/nyfsspiders-neoforge-1.21.1-2.3.2.jar"
+hash-format = "sha1"
+hash = "3ce701eb51cf1668daad1cbb8e2954f90e72d2ed"
+
+[update]
+[update.modrinth]
+mod-id = "dOGM7ccu"
+version = "jBsD0s73"
