@@ -279,7 +279,7 @@ hash = "2abfa525a1ab31c714fa4ec74b7dd28baaad28b5eaf8a9377157fbc841ff7d4b"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "fc0c1230094f88e7023414ae514cd8905c2427f78c1588f9a31953896a24aebb"
+hash = "6bdc0ede79240f90ed7f0e53085a31bbaad92e0cb42b545cb9897e362d782fe1"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -558,7 +558,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "4099d70bb7e8bfd3b1e526a7eb151090e7b652f51942d7d927d8910d853a93fe"
+hash = "2e0d21e95bd6388dccff37494b4f97d6ed9da30f2e32392db7bca3f87d6dab82"
 metafile = true
 
 [[files]]
@@ -1027,6 +1027,11 @@ hash = "5725e533e2fcec7fd636de39d4b3b55d0aa6088050695ad04e708e41bb37fb77"
 [[files]]
 file = "resourcepacks/balanced-music.pw.toml"
 hash = "15cc466ded53f0c6197fac31422733b047c975a743206b3c5af3a98ead13b994"
+metafile = true
+
+[[files]]
+file = "resourcepacks/connected-paths.pw.toml"
+hash = "493971d41451f0c62cc6e0b56c3cfbd9a5651c48240a2564a6450b253f399679"
 metafile = true
 
 [[files]]

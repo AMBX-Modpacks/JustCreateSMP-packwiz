@@ -1,0 +1,13 @@
+name = "Connected Paths"
+filename = "Connected Paths v1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nyfj98b5/versions/C0StoOqM/Connected%20Paths%20v1.2.zip"
+hash-format = "sha1"
+hash = "71f6f22a3201d8f31f9eb4da17e30c8119a8094c"
+
+[update]
+[update.modrinth]
+mod-id = "Nyfj98b5"
+version = "C0StoOqM"
