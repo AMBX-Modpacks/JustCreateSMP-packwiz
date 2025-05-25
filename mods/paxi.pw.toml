@@ -1,6 +1,6 @@
 name = "Paxi"
 filename = "Paxi-1.21.1-NeoForge-5.1.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/CU0PAyzb/versions/1nkCPaBG/Paxi-1.21.1-NeoForge-5.1.2.jar"

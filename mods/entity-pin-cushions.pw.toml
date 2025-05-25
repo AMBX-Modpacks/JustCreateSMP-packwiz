@@ -1,6 +1,6 @@
 name = "Entity Pin Cushions"
 filename = "entity_pin_cushions-neoforge-1.21-1.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
