@@ -507,6 +507,11 @@ hash = "bbc36f511a66f5d63a241779d4363aee1f32e39f62c79c73ce0ab9c6ce49a5c9"
 metafile = true
 
 [[files]]
+file = "mods/biome-music.pw.toml"
+hash = "d7d497a6c1f81a4f6660f5e17cba8a8a31313479c0b08e964d19e8f71729ad37"
+metafile = true
+
+[[files]]
 file = "mods/borderless.pw.toml"
 hash = "ccce804a97cfb1672109cbe28e78e087876dc918170467eea463c283de8cefa7"
 metafile = true
@@ -548,7 +553,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-crafting.pw.toml"
-hash = "1f41272b5cdabe73dc343bdb89eb9993c82df611a18182dcbc7107a46b7458bb"
+hash = "a7b648a5867ea10a41e0e93b365ef7b2d1de5e823237d381cf823157c1c94b4a"
 metafile = true
 
 [[files]]
@@ -673,7 +678,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "b4978516bb16a655b07d72ee7f203a174f887960dd3985e6c8ffc40193b8d720"
+hash = "773ddadff214f89f5e56ac97338e885af531f93adf866e558d31a517e84068c4"
 metafile = true
 
 [[files]]
