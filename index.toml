@@ -497,6 +497,11 @@ hash = "fe933aac7fada313a214ca060a40400ebc9d07d5184fcf286825f1ab64d8f78d"
 metafile = true
 
 [[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "07e756eec150953e1da73adbee0c1d4d79cd9c48bc9c78ae4d3591e7097b45f2"
+metafile = true
+
+[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "bbc36f511a66f5d63a241779d4363aee1f32e39f62c79c73ce0ab9c6ce49a5c9"
 metafile = true
@@ -534,6 +539,16 @@ metafile = true
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
 hash = "2172ec592cc90cc6aca8f3095a968a19557dc5109ef2d5a2696eaa00bc1ca7c1"
+metafile = true
+
+[[files]]
+file = "mods/clickable-advancements.pw.toml"
+hash = "7b5c86be25546796eb891e4444e0478aaf93d3515e57df4fd20cdda0daa05a52"
+metafile = true
+
+[[files]]
+file = "mods/client-crafting.pw.toml"
+hash = "1f41272b5cdabe73dc343bdb89eb9993c82df611a18182dcbc7107a46b7458bb"
 metafile = true
 
 [[files]]
@@ -654,6 +669,11 @@ metafile = true
 [[files]]
 file = "mods/experimentalist.pw.toml"
 hash = "631f7bbae9e4f7e91d27a2be32c7706656c749ce7bd6cb6ac60ec455a590ca87"
+metafile = true
+
+[[files]]
+file = "mods/farsight.pw.toml"
+hash = "b4978516bb16a655b07d72ee7f203a174f887960dd3985e6c8ffc40193b8d720"
 metafile = true
 
 [[files]]
