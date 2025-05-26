@@ -982,6 +982,16 @@ hash = "86731974ee34822b9f96732152181242e76971ef0458cba04192131f78dc533f"
 metafile = true
 
 [[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "2778b06fb016498120f187430b308b4c9cc18776e5cd00ea671965095dac8219"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "08b130647fae5772c9f1e5f8d208ce02eb6d16f7d8ec8dbc1b169095fe31c68b"
+metafile = true
+
+[[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "c2f5582554b3c010e786865cb231ff44cbaece6f2bef0e86188ab06f14a0070c"
 metafile = true
