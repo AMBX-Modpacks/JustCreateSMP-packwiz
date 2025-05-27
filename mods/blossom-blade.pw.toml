@@ -1,0 +1,13 @@
+name = "Blossom Blade"
+filename = "blossom-blade-1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UMmSTwE0/versions/k9trRweh/blossom-blade-1.3.jar"
+hash-format = "sha1"
+hash = "4bdab789fd847e96a26f305910d12d2e2a32d19d"
+
+[update]
+[update.modrinth]
+mod-id = "UMmSTwE0"
+version = "k9trRweh"

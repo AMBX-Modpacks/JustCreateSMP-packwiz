@@ -419,6 +419,11 @@ hash = "d4673e599b24b9375df5ef1205f71403132626d051e15d4a30c4c59cd2fa96b2"
 metafile = true
 
 [[files]]
+file = "kubejs/data/create-structures.pw.toml"
+hash = "657ab9714e3bd6b0a511650cedeaf952b697f79a8e905ca4a1d01202a84eb851"
+metafile = true
+
+[[files]]
 file = "kubejs/data/revertraidchanges-extra-badomen.pw.toml"
 hash = "047fcf35fb07242a48a4b0d52de4e0513c0795ba27c0866626aa535d9a510a66"
 metafile = true
@@ -509,6 +514,11 @@ metafile = true
 [[files]]
 file = "mods/biome-music.pw.toml"
 hash = "d7d497a6c1f81a4f6660f5e17cba8a8a31313479c0b08e964d19e8f71729ad37"
+metafile = true
+
+[[files]]
+file = "mods/blossom-blade.pw.toml"
+hash = "2757991fe113aa7716d54789d98bb0ae287c224741e50f8a8793d05ae08c8f96"
 metafile = true
 
 [[files]]
@@ -617,6 +627,16 @@ hash = "04982308472c8ca221616a11fb7e6507a2320613653ba62a5eec7f2a35d7dd26"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
+hash = "bd151f9ed2f5a1cc9e5136e8b5efc5ed109ca369f798f7699ed9da379beb9f09"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-stronghold-overhaul.pw.toml"
+hash = "e2164caa4e7393a5322a4d63e0382534a2a8ecc905d43458f81f1c1650f850b4"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-surroundings.pw.toml"
 hash = "b4cb9ded537ebda9454a2bcf114ef6730bf82e76b322e442dec90a0e8c4ecf91"
 metafile = true
@@ -722,6 +742,11 @@ hash = "d2c53c8b5c5a21787614611b7f1455fd52cb011ebb35db5095706763e1374945"
 metafile = true
 
 [[files]]
+file = "mods/geophilic.pw.toml"
+hash = "d4706b8ecfa7272a49817e86bd06c4c9349e8a001da27e0cf02a1c602bbacbb5"
+metafile = true
+
+[[files]]
 file = "mods/gjeb.pw.toml"
 hash = "e434fbac828a2680fd13181ed4a1ea3342b4e29d2412f17659371f8b9c99a0bf"
 metafile = true
@@ -729,6 +754,11 @@ metafile = true
 [[files]]
 file = "mods/gml.pw.toml"
 hash = "892c3b85c8a0c86e799a5dd2a97f016db9f71ae8b30f893908d1cf6e57cb7acc"
+metafile = true
+
+[[files]]
+file = "mods/hearths.pw.toml"
+hash = "5161a419f498bfebfda604dc1830b3bce696575b140e835e8d466573360aa8e0"
 metafile = true
 
 [[files]]
@@ -749,11 +779,6 @@ metafile = true
 [[files]]
 file = "mods/improved-sign-editing.pw.toml"
 hash = "89f257f82e21e5022b26fd3fd8cb62e258eea484a2814f2971ece8ec280cbd0d"
-metafile = true
-
-[[files]]
-file = "mods/incendium.pw.toml"
-hash = "c1945e477f4a6e6bfac1fd65718052014c4743fb36a36c84a9abbe2438a34449"
 metafile = true
 
 [[files]]
@@ -999,6 +1024,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "ff412b6f34c86715af5dff154bfcedb7cb5e7b28e77ab9b21abcd42bfae9ca80"
+metafile = true
+
+[[files]]
+file = "mods/terraphilic.pw.toml"
+hash = "04881611cebb2fc4d13b59bb56ca34c4c22975f76696fffefb2b560edae9ad39"
 metafile = true
 
 [[files]]
